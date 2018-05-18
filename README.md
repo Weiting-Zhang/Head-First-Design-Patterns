@@ -1,6 +1,6 @@
 # Head First Design Patterns
 
-This is practice code for Head First Design Patterns, and it is compatible with Java 8.
+This is my practice code for Head First Design Patterns, and it is compatible with Java 8.
 
 You can download the code and compile and run from the command line, or load the code into 
 project in Eclipse (Kepler, with the Java 8 beta patch).
